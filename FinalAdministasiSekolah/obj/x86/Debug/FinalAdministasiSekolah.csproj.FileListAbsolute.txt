@@ -1,0 +1,114 @@
+E:\Data Kuliah\Semester 4\Pemrograman Lanjut\Akhinahasan\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\FinalAdministasiSekolah.exe
+E:\Data Kuliah\Semester 4\Pemrograman Lanjut\Akhinahasan\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\FinalAdministasiSekolah.pdb
+E:\Data Kuliah\Semester 4\Pemrograman Lanjut\Akhinahasan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.csprojResolveAssemblyReference.cache
+E:\Data Kuliah\Semester 4\Pemrograman Lanjut\Akhinahasan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.Form1.resources
+E:\Data Kuliah\Semester 4\Pemrograman Lanjut\Akhinahasan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.Properties.Resources.resources
+E:\Data Kuliah\Semester 4\Pemrograman Lanjut\Akhinahasan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.csproj.GenerateResource.Cache
+E:\Data Kuliah\Semester 4\Pemrograman Lanjut\Akhinahasan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.exe
+E:\Data Kuliah\Semester 4\Pemrograman Lanjut\Akhinahasan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.pdb
+E:\Data Kuliah\Semester 4\Pemrograman Lanjut\Akhinahasan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.DataSiswa.resources
+E:\Data Kuliah\Semester 4\Pemrograman Lanjut\Akhinahasan\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\FinalAdministasiSekolah.exe.config
+E:\Data Kuliah\Semester 4\Pemrograman Lanjut\Akhinahasan\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\Administrasi.mdf
+E:\Data Kuliah\Semester 4\Pemrograman Lanjut\Akhinahasan\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\Administrasi_log.ldf
+E:\Data Kuliah\Semester 4\Pemrograman Lanjut\Akhinahasan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.FormTU.resources
+E:\Data Kuliah\Semester 4\Pemrograman Lanjut\Akhinahasan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.FormLogin.resources
+E:\Data Kuliah\Semester 4\Pemrograman Lanjut\Akhinahasan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.FormPembayaran.resources
+I:\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\FinalAdministasiSekolah.exe.config
+I:\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.exe
+I:\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.pdb
+I:\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\Administrasi.mdf
+I:\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\Administrasi_log.ldf
+I:\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\FinalAdministasiSekolah.exe
+I:\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\FinalAdministasiSekolah.pdb
+I:\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.csprojResolveAssemblyReference.cache
+I:\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.DataSiswa.resources
+I:\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.Form1.resources
+I:\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.FormLogin.resources
+I:\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.FormPembayaran.resources
+I:\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.FormTU.resources
+I:\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.Properties.Resources.resources
+I:\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.csproj.GenerateResource.Cache
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\FinalAdministasiSekolah.exe.config
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.exe
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.pdb
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\Administrasi.mdf
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\Administrasi_log.ldf
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\FinalAdministasiSekolah.exe
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\FinalAdministasiSekolah.pdb
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.csprojResolveAssemblyReference.cache
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.Form1.resources
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.FormLogin.resources
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.Properties.Resources.resources
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.csproj.GenerateResource.Cache
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.EditTU.resources
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.TambahTU.resources
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.TambahSiswa.resources
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.EditSiswa.resources
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.DataSiswa.resources
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.TambahPembayaran.resources
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.EditPembayaran.resources
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.TambahSurat.resources
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.EditSurat.resources
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.TambahDaftar.resources
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.EditDaftar.resources
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.TambahTabungan.resources
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.EditTabungan.resources
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.FormTotal.resources
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.About.resources
+D:\Matkul\Semester 4\Program Lanjutan\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.AmbilTabungan.resources
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\FinalAdministasiSekolah.exe.config
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.exe
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.pdb
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\Administrasi.mdf
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\Administrasi_log.ldf
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\FinalAdministasiSekolah.exe
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\FinalAdministasiSekolah.pdb
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.csprojResolveAssemblyReference.cache
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.About.resources
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.AmbilTabungan.resources
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.DataSiswa.resources
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.EditDaftar.resources
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.EditPembayaran.resources
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.EditSiswa.resources
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.EditSurat.resources
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.EditTabungan.resources
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.EditTU.resources
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.Form1.resources
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.FormLogin.resources
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.FormTotal.resources
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.Properties.Resources.resources
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.TambahDaftar.resources
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.TambahPembayaran.resources
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.TambahSiswa.resources
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.TambahSurat.resources
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.TambahTabungan.resources
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.TambahTU.resources
+E:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.csproj.GenerateResource.Cache
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\FinalAdministasiSekolah.exe.config
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.exe
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.pdb
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.About.resources
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.AmbilTabungan.resources
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.DataSiswa.resources
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.EditDaftar.resources
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.EditPembayaran.resources
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.EditSiswa.resources
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.EditSurat.resources
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.EditTabungan.resources
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.EditTU.resources
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.Form1.resources
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.FormLogin.resources
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.FormTotal.resources
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.Properties.Resources.resources
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.TambahDaftar.resources
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.TambahPembayaran.resources
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.TambahSiswa.resources
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.TambahSurat.resources
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.TambahTabungan.resources
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.TambahTU.resources
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\Administrasi.mdf
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\Administrasi_log.ldf
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\FinalAdministasiSekolah.exe
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\bin\Debug\FinalAdministasiSekolah.pdb
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.csprojResolveAssemblyReference.cache
+D:\Matkul\Semester 5\SBD\FinalAdministasiSekolah\FinalAdministasiSekolah\obj\x86\Debug\FinalAdministasiSekolah.csproj.GenerateResource.Cache
