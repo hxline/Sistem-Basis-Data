@@ -742,6 +742,13 @@ namespace FinalAdministasiSekolah
                 siswa.idTU = idTU;
                 siswa.button = tombol;
                 siswa.ShowDialog();
+
+		BindDataTU();
+            	BindDataSiswa();
+            	BindDataPembayaran();
+            	BindDataSurat();
+            	BindDataDaftar();
+            	BindDataTabungan();
             }
             else if (tombol == "tabungan")
             {
